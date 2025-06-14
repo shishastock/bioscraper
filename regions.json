@@ -1,13 +1,170 @@
-{
-  "Bayern": {
-    "BERCHTESGADENER LAND": [
-      "Ainring",
-      "Anger",
-      "Bad Reichenhall"
-    ],
-    "TRAUNSTEIN": [
-      "Altenmarkt an der Alz",
-      "Bergen Chiemgau"
-    ]
-  }
-}
+"Bayern": {
+            "BERCHTESGADENER LAND": {
+                "Ainring": "ainring",
+                "Anger": "anger",
+                "Bad Reichenhall": "bad reichenhall",
+                "Bayerisch Gmain": "bayerisch gmain",
+                "Berchtesgaden": "berchtesgaden",
+                "Bischofswiesen": "bischofswiesen",
+                "Freilassing": "freilassing",
+                "Laufen Salzach": "laufen salzach",
+                "Marktschellenberg": "marktschellenberg",
+                "Piding": "piding"
+            },
+            "TRAUNSTEIN": {
+                "Altenmarkt an der Alz": "altenmarkt an der alz",
+                "Bergen Chiemgau": "bergen chiemgau",
+                "Chieming": "chieming",
+                "Engelsberg Oberbayern": "engelsberg oberbayern",
+                "Fridolfing": "fridolfing",
+                "Grabenstätt Chiemsee": "grabenstätt chiemsee",
+                "Grassau Kreis": "grassau kreis",
+                "Traunstein": "traunstein",
+                "Inzell": "inzell",
+                "Kienberg Oberbayern": "kienberg oberbayern",
+                "Kirchanschöring": "kirchanschöring"
+            },
+            "ROSENHEIM": {
+                "Albaching": "albaching",
+                "Amerang": "amerang",
+                "Aschau im Chiemgau": "aschau im chiemgau",
+                "Babensham": "babensham",
+                "Bad Aibling": "bad aibling",
+                "Bad Endorf": "bad endorf",
+                "Bad Feilnbach": "bad feilnbach",
+                "Bernau am Chiemsee": "bernau am chiemsee",
+                "Brannenburg": "brannenburg",
+                "Breitbrunn am Chiemsee": "breitbrunn am chiemsee"
+            },
+            "MIESBACH": {
+                "Bad Wiessee": "bad wiessee",
+                "Holzkirchen": "holzkirchen",
+                "Bayrischzell": "bayrischzell",
+                "Irschenberg": "irschenberg",
+                "Fischbachau": "fischbachau",
+                "Kreuth bei Tegernsee": "kreuth bei tegernsee",
+                "Gmund am Tegernsee": "gmund am tegernsee",
+                "Miesbach": "miesbach",
+                "Hausham": "hausham",
+                "Otterfing": "otterfing"
+            },
+            "EBERSBERG": {
+                "Anzing": "anzing",
+                "Aßling": "aßling",
+                "Baiern Kreis Ebersberg Oberbayern": "baiern kreis ebersberg oberbayern",
+                "Bruck Oberbayern": "bruck oberbayern",
+                "Ebersberg Oberbayern": "ebersberg oberbayern",
+                "Egmating": "egmating",
+                "Emmering bei Wasserburg am Inn": "emmering bei wasserburg am inn",
+                "Forstinning": "forstinning",
+                "Frauenneuharting": "frauenneuharting",
+                "Glonn Kreis Ebersberg": "glonn kreis ebersberg"
+            },
+            "MÜHLDORF AM INN": {
+                "Ampfing": "ampfing",
+                "Aschau am Inn": "aschau am inn",
+                "Buchbach Oberbayern": "buchbach oberbayern",
+                "Eggkofen": "eggkofen",
+                "Erharting": "erharting",
+                "Gars am Inn": "gars am inn",
+                "Haag in Oberbayern": "haag in oberbayern",
+                "Heldenstein": "heldenstein",
+                "Jettenbach Oberbayern": "jettenbach oberbayern",
+                "Kirchdorf bei Haag in Oberbayern": "kirchdorf bei haag in oberbayern"
+        },
+        "ALTOETTING": {
+            "Altoetting": "altoetting",
+            "Burghausen Salzach": "burghausen salzach",
+            "Burgkirchen an der Alz": "burgkirchen an der alz",
+            "Emmerting": "emmerting",
+            "Erlbach Kreis Altoetting": "erlbach kreis altoetting",
+            "Feichten an der Alz": "feichten an der alz",
+            "Garching an der Alz": "garching an der alz",
+            "Haiming Kreis Altoetting": "haiming kreis altoetting",
+            "Halsbach": "halsbach",
+            "Kastl Kreis Altoetting": "kastl kreis altoetting"
+        },
+        "ERDING": {
+            "Berglern": "berglern",
+            "Bockhorn": "bockhorn",
+            "Buch am Buchrain": "buch am buchrain",
+            "Dorfen Stadt": "dorfen stadt",
+            "Eitting": "eitting",
+            "Erding": "erding",
+            "Finsing": "finsing",
+            "Forstern Oberbayern": "forstern oberbayern",
+            "Fraunberg": "fraunberg",
+            "Hohenpolding": "hohenpolding"
+        },
+        "ROTTAL-INN": {
+            "Arnstorf": "arnstorf",
+            "Bad Birnbach Rottal": "bad birnbach rottal",
+            "Bayerbach Rott": "bayerbach rott",
+            "Dietersburg": "dietersburg",
+            "Eggenfelden": "eggenfelden",
+            "Egglham": "egglham",
+            "Ering": "ering",
+            "Falkenberg Niederbayern": "falkenberg niederbayern",
+            "Gangkofen": "gangkofen",
+            "Geratskirchen": "geratskirchen"
+        },
+        "LANDSHUT": {
+            "Adlkofen": "adlkofen",
+            "Aham": "aham",
+            "Altdorf": "altdorf",
+            "Altfraunhofen": "altfraunhofen",
+            "Baierbach": "baierbach",
+            "Bayerbach bei Ergoldsbach": "bayerbach bei ergoldsbach",
+            "Bodenkirchen": "bodenkirchen",
+            "Bruckberg Niederbayern": "bruckberg niederbayern",
+            "Buch am Erlbach": "buch am erlbach",
+            "Eching Niederbayern": "eching niederbayern"
+        },
+        "DINGOLFING-LANDAU": {
+            "Dingolfing": "dingolfing",
+            "Eichendorf": "eichendorf",
+            "Frontenhausen": "frontenhausen",
+            "Gottfrieding": "gottfrieding",
+            "Landau an der Isar": "landau an der isar",
+            "Loiching": "loiching",
+            "Mamming": "mamming",
+            "Marklkofen": "marklkofen",
+            "Mengkofen": "mengkofen",
+            "Moosthenning": "moosthenning"
+        },
+        "PASSAU": {
+            "Aicha vorm Wald": "aicha vorm wald",
+            "Aidenbach": "aidenbach",
+            "Aldersbach": "aldersbach",
+            "Bad Füssing": "bad füssing",
+            "Bad Griesbach im Rottal": "bad griesbach im rottal",
+            "Beutelsbach": "beutelsbach",
+            "Breitenberg Niederbayern": "breitenberg niederbayern",
+            "Büchlberg": "büchlberg",
+            "Eging am See": "eging am see",
+            "Fürstenstein": "fürstenstein"
+        },
+        "FREYUNG-GRAFENAU": {
+            "Eppenschlag": "eppenschlag",
+            "Freyung": "freyung",
+            "Fürsteneck": "fürsteneck",
+            "Grafenau Niederbayern": "grafenau niederbayern",
+            "Grainet": "grainet",
+            "Haidmühle": "haidmühle",
+            "Hinterschmiding": "hinterschmiding",
+            "Hohenau Niederbayern": "hohenau niederbayern",
+            "Innernzell": "innernzell",
+            "Jandelsbrunn": "jandelsbrunn"
+        },
+        "FREISING": {
+            "Allershausen": "allershausen",
+            "Freising Oberbayern": "freising oberbayern",
+            "Gammelsdorf": "gammelsdorf",
+            "Attenkirchen": "attenkirchen",
+            "Haag an der Amper": "haag an der amper",
+            "Au in der Hallertau": "au in der hallertau",
+            "Hallbergmoos": "hallbergmoos",
+            "Eching Kreis Freising": "eching kreis freising",
+            "Hohenkammer": "hohenkammer",
+            "Fahrenzhausen": "fahrenzhausen"
+        }
